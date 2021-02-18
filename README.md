@@ -9,7 +9,7 @@
     <body> 
       <link rel="stylesheet" type="text/css" href="gamer4.css">
         <h2 style="text-align: center;">googelgamer</h2> 
-<script async src="https://cse.google.com/cse.js?cx=acd273c66a34d7318"></script>
+<script async src="https://cse.google.com/cse.js?cx=b789fb22b3ff1c566"></script>
 <div class="gcse-search"></div>
     </body> 
 </html> 
